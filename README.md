@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+I'm Lorenzo Benetollo, currently I'm a PhD candidate in Blockchain Technology and Distributed Ledger at Camerino University, Italy.
 <!--
 **lollobene/lollobene** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
