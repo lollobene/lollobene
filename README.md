@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Lorenzo Benetollo, currently I'm a PhD candidate in Blockchain Technology and Distributed Ledger at Camerino University, Italy.
+I am Lorenzo Benetollo, a PhD candidate in Blockchain Technology and Distributed Ledger in a joint program held by the University of Camerino and Ca' Foscari University of Venice, currently based in Treviso, Italy.
 <!--
 **lollobene/lollobene** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
