@@ -1,1 +1,1 @@
-I am Lorenzo Benetollo, a PhD candidate in Blockchain Technology and Distributed Ledger in a joint program held by the University of Camerino and Ca' Foscari University of Venice, currently based in Treviso, Italy.
+I am Lorenzo Benetollo, a PhD candidate in Blockchain Technology and Distributed Ledger in the Italian National joint program held by the University of Camerino. Hosted by Ca' Foscari University of Venice. Currently based in Treviso, Italy.
